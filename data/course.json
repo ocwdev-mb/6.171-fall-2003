@@ -1,0 +1,55 @@
+{
+  "term": "Fall",
+  "year": "2003",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Computer Science",
+      "Software Design and Engineering"
+    ],
+    [
+      "Engineering",
+      "Electrical Engineering",
+      "Telecommunications"
+    ],
+    [
+      "Fine Arts",
+      "Media Studies",
+      "Digital Media"
+    ]
+  ],
+  "legacy_uid": "827a4207-0598-6e1e-804b-7667d79e31df",
+  "instructors": {
+    "content": [
+      "906e81f9-870c-8257-2f99-45848818a2b7",
+      "85507128-5605-b175-eabb-276245bef3db"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "b086dd2a-905e-4674-a28e-94436d5ae02b",
+    "website": "6-171-software-engineering-for-web-applications-fall-2003"
+  },
+  "course_title": "Software Engineering for Web Applications",
+  "course_description": "6.171\u00a0is a course for students who already have some programming and software engineering experience. The goal is to give students some experience in dealing with those challenges that are unique to Internet applications, such as:\n\n*   concurrency;\n*   unpredictable load;\n*   security risks;\n*   opportunity for wide-area distributed computing;\n*   creating a reliable and stateful user experience on top of unreliable connections and stateless protocols;\n*   extreme requirements and absurd development schedules;\n*   requirements that change mid-way through a project, sometimes because of experience gained from testing with users;\n*   user demands for a multi-modal interface.\n",
+  "department_numbers": [
+    "6"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "6.171",
+  "course_image_thumbnail": {
+    "content": "2af9c4f4-0e46-7f51-c273-f4a7c94eece7",
+    "website": "6-171-software-engineering-for-web-applications-fall-2003"
+  },
+  "learning_resource_types": [
+    "Online Textbook",
+    "Exams",
+    "Design Assignments"
+  ],
+  "site_uid": "8f12bb69-01c5-46e2-b872-e82805f08e12",
+  "site_short_id": "6.171-fall-2003",
+  "title": "Course Metadata"
+}
